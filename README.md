@@ -1,2 +1,2 @@
 # New-Repo
-this is for learning
+this is just for learning
